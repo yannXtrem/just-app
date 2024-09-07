@@ -1,0 +1,3 @@
+org.springframework.test.context.ContextCustomizerFactory = com.yannxtrem.\
+    config.SqlTestContainersSpringContextCustomizerFactory,com.yannxtrem.config.\
+    KafkaTestContainersSpringContextCustomizerFactory
