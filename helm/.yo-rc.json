@@ -1,0 +1,18 @@
+{
+  "generator-jhipster": {
+    "appsFolders": ["app"],
+    "dbRandomPassword": "aa1a1831dfbeebef4818ff4479903aea750fdb1cee98fa74103a24147c48",
+    "deploymentApplicationType": "monolith",
+    "directoryPath": "../../",
+    "dockerPushCommand": "docker push",
+    "dockerRepositoryName": "jfirstapp",
+    "ingressDomain": null,
+    "ingressType": null,
+    "jhipsterVersion": "8.7.0",
+    "jwtSecretKey": "YWE5YWRmZDIzMjc3YzYzNDEzNTVjZDA3OTg1NGQ3ODdlOTU2YWEyZjAyZmE0NzE4OGZlODQwMTY1ODBiZTk4YzYxN2YyNzFmYjgzMTc2MmIwNjYzMWI0MjJlMTQ2ZDlkNGNhNg==",
+    "kubernetesNamespace": "default",
+    "kubernetesServiceType": "LoadBalancer",
+    "monitoring": "prometheus",
+    "serviceDiscoveryType": "no"
+  }
+}
