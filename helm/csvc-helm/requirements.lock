@@ -1,0 +1,12 @@
+dependencies:
+- name: kafka
+  repository: https://charts.helm.sh/incubator
+  version: 0.20.9
+- name: prometheus
+  repository: https://prometheus-community.github.io/helm-charts
+  version: 9.7.5
+- name: grafana
+  repository: https://grafana.github.io/helm-charts
+  version: 4.6.3
+digest: sha256:6cb06e2dbfe5e20b2f763c1ce44cfd95c5e1d098af9ba8f743f29da5e3015eb1
+generated: "2024-09-09T11:37:20.0249488+03:00"
